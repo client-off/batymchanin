@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #117",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/116.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Dark Tangerine T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Ton"
+		}
+	]
+}

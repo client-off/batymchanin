@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #11",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/10.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Dark Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Green Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Orange T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purply Playful"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Red Flower"
+		}
+	]
+}

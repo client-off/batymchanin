@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #119",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/118.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Light Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Triple Gold Earring"
+		}
+	]
+}

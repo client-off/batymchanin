@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #44",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/43.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Turquoise T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green Surprised"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Orange Flower"
+		}
+	]
+}

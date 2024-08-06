@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #143",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/142.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Green Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Light Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Pink Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Red Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

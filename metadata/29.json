@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #30",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/29.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Green Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Pink Flower"
+		}
+	]
+}

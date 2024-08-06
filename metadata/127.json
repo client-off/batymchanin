@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #128",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/127.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Sweatpants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Tangerine T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Sad"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Ton"
+		}
+	]
+}

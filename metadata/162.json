@@ -1,0 +1,43 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #163",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/162.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Pink Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Dark Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Cyan T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Ton"
+		}
+	]
+}

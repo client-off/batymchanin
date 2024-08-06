@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #170",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/169.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Red Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Blue Playful"
+		}
+	]
+}

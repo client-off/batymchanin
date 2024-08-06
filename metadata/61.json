@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #62",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/61.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Wires"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Pink Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Flesh Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Sad"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Red Flower"
+		}
+	]
+}

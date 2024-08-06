@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #93",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/92.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Wires"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Joy"
+		}
+	]
+}

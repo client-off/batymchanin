@@ -1,0 +1,43 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #199",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/198.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Purple Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Sweatpants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Orange T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Bat"
+		}
+	]
+}

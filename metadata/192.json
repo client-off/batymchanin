@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #193",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/192.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Flesh Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Sweatpants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Sad"
+		}
+	]
+}

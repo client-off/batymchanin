@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #82",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/81.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Flesh Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Sweatpants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Putple T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Blue Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Orange Flower"
+		}
+	]
+}

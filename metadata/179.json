@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #180",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/179.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Tree"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Turquoise T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Sad"
+		}
+	]
+}

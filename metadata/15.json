@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #16",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/15.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Light Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green Surprised"
+		}
+	]
+}

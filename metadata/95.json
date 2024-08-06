@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #96",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/95.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Blue Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Dark Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Joy"
+		}
+	]
+}

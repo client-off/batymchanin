@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #15",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/14.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Wires"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Dark Blue Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #48",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/47.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Green Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Light Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purply Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Purple Flower"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #135",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/134.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Dark Blue Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Red Surprised"
+		}
+	]
+}

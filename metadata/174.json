@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #175",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/174.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Triple Gold Earring"
+		}
+	]
+}

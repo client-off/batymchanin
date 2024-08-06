@@ -1,0 +1,43 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #177",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/176.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Blue Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Pink Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers With Stripes"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Athletic Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Dark Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Star"
+		}
+	]
+}

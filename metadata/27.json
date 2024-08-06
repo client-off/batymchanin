@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #28",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/27.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Red Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

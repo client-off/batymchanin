@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #145",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/144.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Dark Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Dark Blue Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Pink Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green Joy"
+		}
+	]
+}

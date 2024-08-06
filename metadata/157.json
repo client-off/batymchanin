@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #158",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/157.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Pink T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Red Flower"
+		}
+	]
+}

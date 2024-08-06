@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #167",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/166.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Green Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers With Stripes"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Dark Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

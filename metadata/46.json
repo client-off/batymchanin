@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #47",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/46.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Dark Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Flesh Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #75",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/74.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Tree"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Dark Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

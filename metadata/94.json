@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #95",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/94.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Green Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Light Jeans Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Orange Flower"
+		}
+	]
+}

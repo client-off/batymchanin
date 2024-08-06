@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #39",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/38.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Green Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Pink Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Yellow Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pink Playful"
+		}
+	]
+}

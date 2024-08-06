@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #76",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/75.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Blue Surprised"
+		}
+	]
+}

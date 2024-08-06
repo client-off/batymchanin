@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #4",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/3.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Yellow Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Red T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Orange Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		}
+	]
+}

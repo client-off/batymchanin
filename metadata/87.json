@@ -1,0 +1,39 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #88",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/87.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Dark Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Dark Blue Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Surprised"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Orange Flower"
+		}
+	]
+}

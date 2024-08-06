@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #200",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/199.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Green Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Wings",
+			"value": "Purple Wings"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Green Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Green T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green Playful"
+		}
+	]
+}

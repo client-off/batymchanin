@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #23",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/22.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Jeans"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Purple T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Orange Sad"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Pink Flower"
+		}
+	]
+}

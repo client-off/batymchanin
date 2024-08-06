@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #91",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/90.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Tree"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Purple Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Dark Blue Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Green Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Light Green Sad"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

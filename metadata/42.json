@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #43",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/42.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Green Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Blue Socks"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Athletic Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Red Sweatshirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Yellow Playful"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		}
+	]
+}

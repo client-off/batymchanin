@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #111",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/110.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Wires"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Dark Blue Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Blue Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Green Surprised"
+		}
+	]
+}

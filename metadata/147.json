@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #148",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/147.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Tree"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Red Sneakers"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Athletic Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Light Putple T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Blue Joy"
+		},
+		{
+			"trait_type": "Print",
+			"value": "Red Flower"
+		}
+	]
+}

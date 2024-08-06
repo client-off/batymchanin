@@ -1,0 +1,31 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #132",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/131.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Putple Gradient"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Athletic Shorts"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Blue Hoodie"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Orange Surprised"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Silver Earring"
+		}
+	]
+}

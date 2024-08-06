@@ -1,0 +1,35 @@
+{
+	"description": "Batymchanin nft",
+	"name": "Bat #89",
+	"image": "https://raw.githubusercontent.com/client-off/batymchanin/main/images/88.png",
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Moon"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Body"
+		},
+		{
+			"trait_type": "Shoes",
+			"value": "Black Sneakers With Stripes"
+		},
+		{
+			"trait_type": "Pants",
+			"value": "Black Pants"
+		},
+		{
+			"trait_type": "Shirt",
+			"value": "Dark Blue T-Shirt"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Purple Joy"
+		},
+		{
+			"trait_type": "Accessories",
+			"value": "Gold Earring"
+		}
+	]
+}
